@@ -5,7 +5,7 @@ import time
 wordlist = ("hello", "hi", "greetings", "sup", "what's up",)
 
 
-print('Hi! This is my first big project. Please if you find any problems let me know here andreiski@abv.bg. Thank you!')
+print('Hi! This is my first big project. Please if you find any problems let me know here or email me at andreiski@abv.bg. Thank you!')
 print('If you want to see the wordlist for this bot type wordlist. More functions are coming soon.')
 
 
